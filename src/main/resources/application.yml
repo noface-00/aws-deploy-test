@@ -1,0 +1,6 @@
+spring:
+  application:
+    name aws-deploy
+spring.doc:
+  swagger-ui:
+    path: /swagger-ui-custom-hmtl
